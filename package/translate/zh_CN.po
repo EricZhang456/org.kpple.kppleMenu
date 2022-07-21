@@ -17,15 +17,15 @@ msgstr ""
 
 #: ../contents/ui/main.qml
 msgid "About This Computer"
-msgstr "关于这台电脑" 
+msgstr "关于本系统" 
 
 #: ../contents/ui/main.qml
 msgid "System Preferences..."
-msgstr "系统偏好设定..." 
+msgstr "系统设置..." 
 
 #: ../contents/ui/main.qml
 msgid "App Store..."
-msgstr "应用商店..." 
+msgstr "Discover..." 
 
 #: ../contents/ui/main.qml
 msgid "Force Quit..."
@@ -77,15 +77,15 @@ msgstr "关于这台电脑 :"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "System Preferences :"
-msgstr "系统设定 :" 
+msgstr "系统设置 :" 
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "App Store :"
-msgstr "应用商店 :" 
+msgstr "Discover :" 
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Force Quit :"
-msgstr "强制退出 :" 
+msgstr "Htop :" 
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Sleep :"
@@ -113,7 +113,7 @@ msgstr "你需要帮助 ？"
 
 #: ../contents/ui/config/configHelp.qml
 msgid "About Kpple"
-msgstr "关于Kpple"
+msgstr "关于 Kpple"
 
 #: ../contents/ui/config/configHelp.qml
 msgid "Consult the user's guide"
