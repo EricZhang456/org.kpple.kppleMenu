@@ -1,4 +1,4 @@
 install:
 	mv ./package/* .
 	rm -rv package
-	mv . ~/.local/share/plasma/plasmoids/org.kpple.kppleMenu 
+	mv ../org.kpple.kppleMenu ~/.local/share/plasma/plasmoids/org.kpple.kppleMenu 
