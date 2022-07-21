@@ -73,7 +73,7 @@ msgstr "显示高级模式"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "About This Computer :"
-msgstr "关于这台电脑 :" 
+msgstr "关于本系统 :" 
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "System Preferences :"
