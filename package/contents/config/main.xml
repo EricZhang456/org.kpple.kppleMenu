@@ -32,7 +32,7 @@
       <default>plasma-discover</default>
     </entry>
     <entry name="forceQuitSettings" type="String">
-      <default>xkill</default>
+      <default>htop</default>
     </entry>
     <entry name="sleepSettings" type="String">
       <default>systemctl suspend</default>
