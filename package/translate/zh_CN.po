@@ -29,7 +29,7 @@ msgstr "Discover..."
 
 #: ../contents/ui/main.qml
 msgid "Force Quit..."
-msgstr "强制退出..." 
+msgstr "系统监视器..."
 
 #: ../contents/ui/main.qml
 msgid "Sleep"
