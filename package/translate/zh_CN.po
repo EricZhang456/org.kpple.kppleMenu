@@ -85,7 +85,7 @@ msgstr "Discover :"
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Force Quit :"
-msgstr "Htop :" 
+msgstr "系统监视器 :" 
 
 #: ../contents/ui/config/configGeneral.qml
 msgid "Sleep :"

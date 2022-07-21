@@ -143,7 +143,7 @@ Item {
                 text: i18n("Force Quit...")
                 // right shortcut item
                 PlasmaComponents.Label {
-                    text: "⌥⌘⎋ "
+                    text: "C-Esc"
                     anchors.right: parent.right
                     anchors.verticalCenter: parent.verticalCenter
                 }
@@ -209,7 +209,7 @@ Item {
                 text: i18n("Lock Screen")
                 // right shortcut item
                 PlasmaComponents.Label {
-                    text: "⌃⌘Q "
+                    text: "M-L "
                     anchors.right: parent.right
                     anchors.verticalCenter: parent.verticalCenter
                 }
@@ -224,7 +224,7 @@ Item {
                 text: i18n("Log Out")
                 // right shortcut item
                 PlasmaComponents.Label {
-                    text: "⇧⌘Q "
+                    text: "C-A-Del "
                     anchors.right: parent.right
                     anchors.verticalCenter: parent.verticalCenter
                 }
